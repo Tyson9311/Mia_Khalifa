@@ -72,7 +72,7 @@ Number of times to report
 
 Developer Info
 
-Creator: Tyson Granger
+Creator: Dazai Kyosuke
 
 Telegram: Username to koi fix nhi par logo ke liye mera naam hi kaafi h......
 
