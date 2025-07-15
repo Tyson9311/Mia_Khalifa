@@ -41,13 +41,13 @@ pip install -r requirements.txt
 Login to https://my.telegram.org and go to "API Development" to obtain them.
 
 
-4. In the accounts.txt file, add the phone numbers you want to use (in the format +959...).
+4. In the accounts.txt file, add the phone numbers you want to use (in the format +91....).
 
 Example:
 
-+959......
-+959......
-
++91......
++7......
++1.......
 
 5. Run the main script
 
