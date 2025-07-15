@@ -2,7 +2,7 @@
 
 ![Preview](mia_khalifa.jpg)
 
-🔫Telegram Abuse Reporting Tool🔫 
+☠️Telegram Abuse Reporting Tool☠️ 
 
 This tool is designed to report inappropriate accounts on Telegram such as spam, fake accounts, and adult content.
 
