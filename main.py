@@ -53,9 +53,9 @@ def show_banner():
     banner = """
 ##############################################
 #                                            #
-#             CREATED By MgKaung             #
+#             CREATED By Dazai Kyosuke       #
 #                                            #
-#        Telegram: @usernamevip1             #
+#        Telegram: @Vivek_X_singhaniya       #
 ##############################################
 """
     print_typing(banner)
