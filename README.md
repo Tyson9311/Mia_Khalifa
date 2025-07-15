@@ -45,8 +45,8 @@ Login to https://my.telegram.org and go to "API Development" to obtain them.
 
 Example:
 
-+91......
-+7......
++91......<br>
++7......<br>
 +1.......
 
 5. Run the main script
