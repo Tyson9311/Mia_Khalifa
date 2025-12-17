@@ -72,7 +72,7 @@ Number of times to report
 
 Developer Info
 
-Creator: Dazai Kyosuke
+Creator: 👑 Darian Kingston 👑 
 
 Telegram: Username to koi fix nhi par logo ke liye mera naam hi kaafi h......
 
